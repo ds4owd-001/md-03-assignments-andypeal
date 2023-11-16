@@ -181,6 +181,7 @@ penguins|>
 penguins|>
   count(sex,island)
 
+
 ```
 
 ## Task 7: Data communication
